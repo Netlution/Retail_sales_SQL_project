@@ -157,9 +157,9 @@ FROM retail_sales
 group by 1;
 ```
 
--- Write a SQL Query to create each shift and number of orders(Example morning <=12, Afternoon Between 12 & 17, Evening >27
+10. **Write a SQL Query to create each shift and number of orders(Example morning <=12, Afternoon Between 12 & 17, Evening >27
 
-...SQL 
+```sql
 with hourly_sale
 AS
 (
@@ -177,10 +177,8 @@ SELECT
     count(*) as total_sale
     FROM hourly_sale
     Group by shift
+```
 
-....
-
---     END OF PROJECT
 
 
 ## Findings
