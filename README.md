@@ -183,17 +183,22 @@ SELECT
 --     END OF PROJECT
 
 
-##Findings
+## Findings
 
 -Customer Demographics: The dataset features a wide range of customer age groups, with purchases spread across key categories like Clothing and Beauty.
+
 -High-Value Transactions: A notable number of transactions exceeded a total sale value of 1000, suggesting the presence of premium buyers.
+
 -Sales Trends: Monthly analysis revealed fluctuations in sales, highlighting periods of peak activity and seasonal trends.
+
 -Customer Insights: The data helped identify top-spending customers and revealed the most frequently purchased product categories.
 
-##Reports
+## Reports
 -Sales Summary: Provides a comprehensive overview of total sales, customer profiles, and product category performance.
+
 -Trend Analysis: Delivers insights into monthly sales trends and identifies patterns across different time periods.
+
 -Customer Insights: Highlights high-value customers and presents unique customer counts by product category.
 
-##Conclusion
+## Conclusion
 This project offers a solid foundation in SQL for aspiring data analysts, guiding users through database creation, data cleaning, exploratory analysis, and writing business-focused queries. The insights derived from the analysis enable a deeper understanding of customer behavior, sales trends, and product performance—valuable assets for data-driven decision-making in retail.
